@@ -1,0 +1,26 @@
+h1 {
+	color: #AAACE6;
+	font-family: Georgia;
+	font-size: 28px;
+}
+p{
+	color: rgb(118, 122, 144);
+	font-family: Georgia;
+	font-size: 16px;
+	
+}
+ul{
+	color: rgb(118, 122, 144);
+	font-family: Georgia;
+	font-size: 16px;
+	
+}
+img {
+	width: 800px;
+	height: auto;
+}
+
+h2{color: #AAACE6;
+	font-family: Georgia;
+	font-size: 28px;	
+}
