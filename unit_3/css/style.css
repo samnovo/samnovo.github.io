@@ -1,17 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
 h1 {
 	color: #AAACE6;
-	font-family: Georgia;
+	font-family: 'Josefin Sans', sans-serif;
 	font-size: 28px;
 }
 p{
 	color: rgb(118, 122, 144);
-	font-family: Georgia;
+	font-family: 'Josefin Sans', sans-serif;
 	font-size: 16px;
 	
 }
 ul{
 	color: rgb(118, 122, 144);
-	font-family: Georgia;
+	font-family: 'Josefin Sans', sans-serif;
 	font-size: 16px;
 	
 }
@@ -21,6 +22,6 @@ img {
 }
 
 h2{color: #AAACE6;
-	font-family: Georgia;
+	font-family: 'Josefin Sans', sans-serif;
 	font-size: 28px;	
 }
