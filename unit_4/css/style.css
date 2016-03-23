@@ -18,11 +18,18 @@ ul{
 	
 }
 img {
-	width: 800px;
+	width: 600px;
 	height: auto;
+	display: block;
+	margin: 0 auto
 }
 
 h2{color: #AAACE6;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 28px;	
+}
+
+body{
+	background-image: url("../images/marblebackground.jpg");	
+	background-size: cover;
 }
