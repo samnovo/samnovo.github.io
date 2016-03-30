@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+h1 {
+	color: #AAACE6;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 36px;
+}
+p{
+	color: rgb(118, 122, 144);
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	
+}
+ul{
+	color: rgb(118, 122, 144);
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	font-variant: small-caps;
+	
+}
+img {
+	width: 600px;
+	height: auto;
+	display: block;
+	margin: 0 auto
+}
+
+h2{color: #AAACE6;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 28px;	
+}
+
+body{
+	background-image: url("../images/squareblue.png");	
+	background-size: cover;
+}
+
+header{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px
+}
+
+nav{
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px
+}
+
+aside{
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px
+}
+
+article{
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px
+}
+
+footer{
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px
+}
+
+div / section{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px
+}
