@@ -62,7 +62,7 @@ aside{
 	background-color: violet;
 	border: 1px black solid;
 	padding: 20px;
-	float: left;
+	display: inline-block;
 	width: 30%;
 }
 
@@ -70,7 +70,7 @@ aside{
 	background-color: pink;
 	border: 1px black solid;
 	padding: 20px;
-	float: right;
+	display: inline-block;
 	width: 62%;
 }
 
