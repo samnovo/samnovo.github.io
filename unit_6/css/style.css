@@ -8,21 +8,22 @@ p{
 	color: rgb(118, 122, 144);
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 20px;
-	
 }
+
 ul{
 	color: rgb(118, 122, 144);
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 20px;
 	font-variant: small-caps;
-	
 }
+
 img {
-	width: 600px;
+	width: 100%;
 	height: auto;
 	display: block;
 	margin: 0 auto
 }
+
 
 h2{color: #AAACE6;
 	font-family: 'Josefin Sans', sans-serif;
@@ -43,13 +44,18 @@ header{
 nav{
 	background-color: #E8C66A;
 	border: 1px black solid;
-	padding: 20px
+	padding: 20px;
+	text-align: center;
+}
+
+nav a{
+	padding: 0em 1em;
 }
 
 aside{
 	background-color: #FFC675;
 	border: 1px black solid;
-	padding: 20px
+	padding: 20px;
 }
 
 #two_column{
@@ -63,15 +69,25 @@ aside{
 	border: 1px black solid;
 	padding: 20px;
 	display: inline-block;
-	width: 30%;
+	width: 29.28%;
 }
 
-#right{
+#middle{
 	background-color: pink;
 	border: 1px black solid;
 	padding: 20px;
 	display: inline-block;
-	width: 62%;
+	width: 29.28%;
+	height: 250px;
+	vertical-align: top;
+}
+
+#right{
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	display: inline-block;
+	width: 29.28%;
 }
 
 article{
