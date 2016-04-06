@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+h1 {
+	color: #AAACE6;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 36px;
+}
+p{
+	color: rgb(118, 122, 144);
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+}
+
+ul{
+	color: rgb(118, 122, 144);
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	font-variant: small-caps;
+}
+
+img {
+	width: 100%;
+	height: auto;
+	display: block;
+	margin: 0 auto
+}
+
+
+h2{color: #AAACE6;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 28px;	
+}
+
+body{
+	background-image: url("../images/squareblue.png");	
+	background-size: cover;
+}
+
+header{
+	padding: 20px
+}
+
+nav{
+	border: rgb(118, 122, 144) 1px solid;
+	padding: 20px;
+	text-align: center;
+}
+
+nav a{
+	padding: 0em 1em;
+}
+
+aside{
+	padding: 20px;
+}
+
+#two_column{
+	padding: 20px;
+}
+
+#left{
+	padding: 20px;
+	display: inline-block;
+	width: 29.28%;
+}
+
+#middle{
+	width: 29.28%;
+	height: 250px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#right{
+	padding: 20px;
+	display: inline-block;
+	width: 29.28%;
+}
+
+article{
+	padding: 20px
+}
+
+footer{
+	padding: 20px
+}
+
+div / section{
+	padding: 20px
+}
