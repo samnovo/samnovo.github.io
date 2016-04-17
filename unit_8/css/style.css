@@ -104,7 +104,13 @@ div / section{
 		padding: 0em;
 		font-size: 1em;
 	}
-
+	footer li{
+  		float:none; 
+  		width:50%;
+  		padding-bottom: 40px
+  		margin-bottom:20px;
+  		font-family: 'Josefin Sans', sans-serif;
+}
 }
 
 @media only screen and (max-width: 1280px){
@@ -124,8 +130,12 @@ div / section{
 		font-size: 1em;
 	}
 
-	nav img {
-  		float: none; 
+	footer li{
+  		float:none; 
+  		width:50%;
+  		padding-bottom: 40px
+  		margin-bottom:20px;
+  		font-family: 'Josefin Sans', sans-serif;
 }
 
 }
