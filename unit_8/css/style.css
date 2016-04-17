@@ -123,4 +123,10 @@ div / section{
 		padding: 0em;
 		font-size: 1em;
 	}
+
+	nav img {
+  		float: none; 
 }
+
+}
+
