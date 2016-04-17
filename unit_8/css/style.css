@@ -91,12 +91,36 @@ div / section{
 @media only screen and (max-width: 786px){
 	#left {
 		width: 100%;
+		padding: 0em;
+		font-size: 1em;
 	}
 	#middle{
 		width: 100%;
+		padding: 0em;
+		font-size: 1em;
 	}
 	#right{
 		width: 100%;
+		padding: 0em;
+		font-size: 1em;
 	}
 
+}
+
+@media only screen and (max-width: 1280px){
+	#left{
+		width: 100%;
+		padding: 0em;
+		font-size: 1em;
+	}
+	#middle{
+		width: 100%;
+		padding: 0em;
+		font-size: 1em;
+	}
+	#right{
+		width: 100%;
+		padding: 0em;
+		font-size: 1em;
+	}
 }
