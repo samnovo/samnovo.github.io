@@ -127,6 +127,10 @@ div / section{
 		padding: 0em;
 		font-size: 1em;
 	}
-
+	nav{
+  		float: none; 
+  		width: 30%;
+  		height: auto;
+}
 }
 
