@@ -77,15 +77,16 @@ aside{
 }
 
 article{
-	padding: 20px
+	padding: 20px;
 }
 
 footer{
-	padding: 20px
+	padding: 20px;
 }
 
 div / section{
-	padding: 20px
+	padding: 20px;
+	vertical-align: top;
 }
 
 @media only screen and (max-width: 786px){
