@@ -4,6 +4,7 @@ h1 {
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 36px;
 }
+
 p{
 	color: rgb(118, 122, 144);
 	font-family: 'Josefin Sans', sans-serif;
@@ -24,10 +25,20 @@ img {
 	margin: 0 auto
 }
 
-
-h2{color: #AAACE6;
+h2{
+	color: #AAACE6;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 28px;	
+	font-size: 22px;
+	font-variant: small-caps;
+	text-align: center;
+}
+
+h3{
+	color: rgb(118, 122, 144);
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	padding: 0;
 }
 
 body{
@@ -89,18 +100,26 @@ div / section{
 	padding: 20px;
 	vertical-align: top;
 }
+
 #myresume{
 	width: 80%;
 	margin: 0 auto;
 }
+
 #myresume img{
 	max-width: 100%;
 }
-#icons {
-	width: 15%;
-	height: 25px;
+
+#icons{
+	width: 10%;
+	height: 20px;
+	color: rgb(118, 122, 144);
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	text-align: center;
 	display: inline-block;
 }
+
 @media only screen and (max-width: 786px){
 	#left {
 		width: 100%;
@@ -121,7 +140,6 @@ div / section{
   		float: none; 
   		width: 30%;
   		height: auto;
-}
 }
 
 @media only screen and (max-width: 1280px){
