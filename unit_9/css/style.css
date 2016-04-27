@@ -111,13 +111,16 @@ div / section{
 }
 
 #icons{
-	width: 10%;
 	height: 20px;
 	color: rgb(118, 122, 144);
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 20px;
 	text-align: center;
+}
+
+#icons a{
 	display: inline-block;
+	width: 34px;
 }
 
 @media only screen and (max-width: 786px){
@@ -128,6 +131,7 @@ div / section{
 	}
 	#middle{
 		width: 100%;
+		height: auto;
 		padding: 0em;
 		font-size: 1em;
 	}
@@ -138,8 +142,16 @@ div / section{
 	}
 	nav{
   		float: none; 
-  		width: 30%;
+  		width: 100%;
   		height: auto;
+  		padding: 0px;
+}
+
+	nav a{
+	width: 100%;
+	display: block;
+	padding: 12px 0px;
+	}
 }
 
 @media only screen and (max-width: 1280px){
